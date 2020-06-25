@@ -17,7 +17,7 @@
     width: 60px;
 }
 
-.friend .friend__column{ 
+.friend .friend__column { 
     display: flex;
     align-items: center;
 }
@@ -60,4 +60,13 @@
 
 .friend__now-listening i {
     font-size: 12px;
+}
+
+.friend__add-btn {
+    display: flex;
+    padding: 10px 15px;
+    justify-content: cebter;
+    align-items: center;
+    background-color: #f5f5f5;
+    border-radius: 5px;
 }
