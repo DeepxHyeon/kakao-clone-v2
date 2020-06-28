@@ -22,9 +22,9 @@
 }
 
 .nav .nav__badge {
-    position: absoulte;
-    top: -7px;
-    right: -7px;
+    position: absolute;
+    top: -8px;
+    right: -8px;
     font-size: 10px;
     color: white;
     background-color: #dc5d46;
